@@ -1,0 +1,15 @@
+#init{
+ width: 100%;
+ background-color: white;   
+ padding-bottom: 20px;
+}
+
+#tickers{
+    margin-top: 25px;
+}
+#call_App{
+    margin-top: 25px;
+    width: 100%;
+    background-color: white;   
+    padding-bottom: 20px;
+}
